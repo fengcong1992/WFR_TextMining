@@ -1,13 +1,13 @@
 # WFR_TextMining
-**This is a repository that contains some code samples of text mining-based wind forecasting literature review.**
+**This is a repository that contains code samples of text mining-based wind forecasting literature review.**
 
 As described in:
 
-**Current status and advances in machine learning-based wind forecasting: A taxonomical review via text mining
+**Current status and advances in machine learning-based wind forecasting: A taxonomical review via text mining**
 
 
 ## How to use
-The meta data analysis, including the journal infrastructure, author infrastructure, and the publication infrastructure, can be performed directly by the data provided. To scrap the full text data, your own Elsevier API Key is required. 
+The meta data analysis, including the journal infrastructure, author infrastructure, and the publication infrastructure, can be performed directly by the data provided. To scrap the full text data, your own Elsevier API Key is required and can be obtained from https://dev.elsevier.com. 
 
 ### Dataset
 The example dataset contains meta data scrapped from Google Scholar, Web of Science, and Scopus by the Publish or Perish on 2020-02-01.

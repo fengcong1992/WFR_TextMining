@@ -15,7 +15,7 @@ The example dataset contains meta data scrapped from Google Scholar, Web of Scie
 ### Environment
 ```
 # Install packages within R
-install.packages(c("zoo"))
+install.packages(c("stringr"， “plyr”， “rscopus”， “rvest”， “tm”， “SentimentAnalysis”， “syuzhet”， “tibble”， “tau”， “corpus”))
 ```
 
 

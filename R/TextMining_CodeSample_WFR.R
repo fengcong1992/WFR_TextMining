@@ -12,8 +12,6 @@ root_save <- '' # your results directory
 
 library(stringr)
 library(plyr)
-library(ggplot2)
-library(extrafont)
 library(ggrepel)
 library(rscopus)
 library(rvest)
@@ -22,7 +20,6 @@ library(SentimentAnalysis)
 library(syuzhet)
 library(tibble)
 library(tau) 
-library(data.table)
 library(corpus)
 source('find_abbrev.R') # source find_abbrev.R from dazhiyang's github
 
